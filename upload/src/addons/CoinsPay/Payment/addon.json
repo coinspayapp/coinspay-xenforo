@@ -1,0 +1,17 @@
+{
+    "legacy_addon_id": "",
+    "title": "CoinsPay: crypto payments",
+    "description": "Accept USDT, USDC, BTC, ETH and more for user upgrades and other purchases: members pay on the CoinsPay payment page, the money goes to your own wallets.",
+    "version_id": 10070,
+    "version_string": "0.1.0",
+    "dev": "CoinsPay",
+    "dev_url": "https://coinspay.app",
+    "faq_url": "https://github.com/coinspayapp/coinspay-xenforo#readme",
+    "support_url": "https://coinspay.app",
+    "extra_urls": [],
+    "require": {
+        "XF": [2020070, "XenForo 2.2.0+"],
+        "php": ["7.0.0", "PHP 7.0.0+"]
+    },
+    "icon": "icon.png"
+}

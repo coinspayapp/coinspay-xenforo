@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="cron_entry.coinspayPoll" version_id="10070" version_string="0.1.0"><![CDATA[CoinsPay: check unpaid invoices]]></phrase>
+</phrases>
